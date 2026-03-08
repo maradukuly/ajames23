@@ -6,7 +6,7 @@
 
 ⌨️ Languages: R (intermediate), Java (beginner), Python (beginner).
 
-  Skills: R, R Studio, Data Cleaning, Data Analysis
+  - Skills: R, R Studio, Data Cleaning, Data Analysis
 
 🪲 Interests: Optimization, Monte Carlo, Quantatitve Finance
 
